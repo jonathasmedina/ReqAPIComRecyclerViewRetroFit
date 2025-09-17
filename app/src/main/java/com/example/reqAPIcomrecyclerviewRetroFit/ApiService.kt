@@ -8,6 +8,6 @@ interface ApiService {
 }
 
 //Annotation get = faz uma requisição get para a url /users.
-//@GET é possível pois houve a dependencia retrofit-2.9.0 no gralde.kts
+//@GET é possível pois houve a dependencia retrofit-2.9.0 no gradle.kts
 
 //suspend = função que pode ser pausada e retomada
